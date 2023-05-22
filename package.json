@@ -1,9 +1,9 @@
 {
-  "name": "next-app",
+  "name": "educ-app",
   "version": "0.1.0",
   "private": true,
-  "description": "Next js 13, TypeScript And Tailwind CSS Starter",
-  "repository": "https://github.com/Hussseinkizz/next-app",
+  "description": "About the app",
+  "repository": "https://github.com/Hussseinkizz/educ",
   "author": "Hussein Kizz",
   "license": "MIT",
   "scripts": {
